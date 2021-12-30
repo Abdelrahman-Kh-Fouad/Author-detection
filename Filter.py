@@ -1,20 +1,19 @@
 import re
-class Filter :
-    def __init__(self , path):
+class Filter:
+    def __init__(self, path):
         self.book = open(path)
-        self.bookStr= self.book.read()
-        print(self.bookStr[:98])
-        self.bookToToken=''
+        self.bookStr = self.book.read()
+        self.bookToToken = ''
 
     def DeletePageNumbers(self):
         # Delete Page Numbers
         self.bookStr = re.sub(r'\bPage \| .*\b', '', self.bookStr)
-        #print(firstFileRaw)
+        # print(firstFileRaw)
 
     def DeleteMultiLines(self):
         # Delete multilines
         self.bookStr = re.sub(r'\n[\n]*', '\n', self.bookStr)
-        #print(firstFileRaw)
+        # print(firstFileRaw)
 
     def DeleteChaptersNames(self):
         # Delete chapters' names
@@ -27,7 +26,7 @@ class Filter :
             for flag in [(lambda ch: ch.isspace() or (ch.isalpha() and ch.isupper()))(ch) for ch in line]:
                 allUpper = allUpper and flag
             if (allUpper):
-                print(f'chapter {chapter}-> {line}')
+                # print(f'chapter {chapter}-> {line}')
                 chapter += 1
             else:
                 self.bookToToken += line + " "
@@ -42,12 +41,15 @@ class Filter :
             tmp += to
         self.bookToToken = tmp
 
+    def GetText(self):
+        return self.bookStr
+
     def GetWords(self):
         self.DeletePageNumbers()
         self.DeleteMultiLines()
         self.DeleteChaptersNames()
         self.LowreringChars()
         words = self.bookToToken.split(' ')
-        #print(len(words))
+        # print(len(words))
 
         return words

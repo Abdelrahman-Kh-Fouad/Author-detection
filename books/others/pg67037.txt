@@ -1,0 +1,1579 @@
+﻿The Project Gutenberg eBook, On the inaccuracies which probably exist in
+the census returns of ages, by Thomas A. Welton
+
+
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions 
+whatsoever. You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at 
+www.gutenberg.org. If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
+
+
+
+
+Title: On the inaccuracies which probably exist in the census returns of ages
+
+
+Author: Thomas A. Welton
+
+
+
+Release Date: December 29, 2021  [eBook #67037]
+
+Language: English
+
+
+***START OF THE PROJECT GUTENBERG EBOOK ON THE INACCURACIES WHICH PROBABLY
+EXIST IN THE CENSUS RETURNS OF AGES***
+
+
+Transcribed from the 1876 T. Brakell edition by David Price.  Many thanks
+to the British Library for making their copy available.
+
+
+
+
+
+                                    ON
+                             THE INACCURACIES
+                       WHICH PROBABLY EXIST IN THE
+                         CENSUS RETURNS OF AGES.
+
+
+                                * * * * *
+
+                                    BY
+                         THOMAS A. WELTON, F.S.S.
+
+                                * * * * *
+
+                                * * * * *
+
+                                * * * * *
+
+                                LIVERPOOL:
+                    T. BRAKELL, PRINTER, COOK STREET.
+
+                                  1876.
+
+                                * * * * *
+
+
+
+
+ON THE INACCURACIES WHICH PROBABLY EXIST IN THE CENSUS RETURNS OF AGES.
+
+
+                   _By Thomas A. Welton_, _F.S.S._, &c.
+
+SOME years ago, before the publication of the third volume of the Census
+of England and Wales, 1871, I was anxious to calculate the approximate
+death rates in particular parts of England, amongst females at certain
+ages, during each of the years 1851–1870.  I therefore applied myself to
+the preliminary process of estimating the population in each year at the
+ages in question.
+
+I found that it was not safe to assume that, if population in a given
+county or district had increased generally, at a certain rate, there had
+been an increase at each particular age at something like the same rate.
+On the contrary, there was a surprising irregularity in the respective
+rates of increase or decrease observed amongst persons of the several
+ages in the same population.
+
+Table I shows the rates of increase in the numbers enumerated at each age
+up to 80 amongst males and females respectively in the several
+registration divisions, and in England and Wales.  On inspecting this
+table, it will be seen that, partly owing to the effect of emigration,
+the ratios of increase at particular ages are very diversified.  In the
+Eastern Counties males aged 20–25 decreased by nearly one-tenth, but
+males aged 65–70 increased by nearly a quarter.  In the same division,
+females aged 25–30 decreased by almost 5 per cent., whilst females aged
+40–45 increased by more than 15 per cent.
+
+Such being the state of the facts, I abandoned all thought of deducing
+from the total numbers enumerated in 1871 any reliable estimates of the
+numbers at particular ages, unless indeed some other mode of treatment of
+the figures could be found leading to more regular results.
+
+On comparing with the population enumerated in 1851 the numbers, ten
+years older, found to be living in 1861, I obtained other sets of ratios,
+which are shown in Table II.
+
+The following is a comparison between the proportions for England and
+Wales, shewn in Table II, and the numbers out of 100 living in 1851 who
+would have survived in 1861 according to the English Life Table No. 3.
+
+    Ages        Proportion of survivors out of 100 living in 1851.
+     in
+   1851.
+                    By the Census.            By the Life Table.
+                 Males.       Females.       Males.       Females.
+0–5 {4}               90.1          89.2          86.4          86.7
+5–10                  91.2          93.5          94.2          94.0
+10–15                 89.2         102.1          93.7          93.4
+15–20                 84.1          94.4          92.0          91.6
+20–25                 83.2          83.2          90.9          90.4
+25–30                 84.4          82.3          89.9          89.6
+30–35                 89.2          88.6          88.6          88.6
+35–40                 85.1          85.9          86.8          87.4
+40–45                 82.3          83.8          84.3          85.9
+45–50                 76.1          77.6          80.5          83.2
+50–55                 76.7          80.2          75.3          78.2
+55–60                 68.9          74.1          67.7          70.7
+60–65                 56.5          60.2          56.9          60.3
+65–70                 47.3          50.5          43.5          47.2
+
+The emigration of females of English birth has by no means been on an
+insignificant scale, at any time since 1851; but owing to the immigration
+of large numbers of women from Ireland, Scotland, and foreign parts, the
+net loss has been only moderate.  We should therefore be justified in
+looking for a certain correspondence between the proportions of females
+who might be expected to survive, according to the Life Table, and those
+proportional figures which represent a comparison of the census figures
+of 1861 with those of 1851.  In point of fact, we discover that, at ages
+10–20, the proportions who should survive the next ten years, according
+to the Life Table, are far exceeded by those who apparently do survive;
+and this state of things in the next ten years is reversed.  So that the
+figures suggest a faulty return of the ages of the female population,
+exaggerating the numbers aged 20–30, and perhaps depressing those aged
+30–40.
+
+Again, we have reason to believe that some of the children under five
+years old are returned as being fully of that age, whilst next to none
+who have attained five years of age would be returned as being younger.
+This would account for the dissimilarity of the ratios of survivors at
+the earliest period of life.
+
+By assuming, as experimental suppositions, that the proportionate errors
+in the censuses of 1851 and 1861 at each age were equal, and that female
+emigration and immigration neutralised each other, I obtained a set of
+corrections of the census enumerations of females which indicated that
+there was a tendency in the case of young persons under twenty to
+exaggerate their ages, but that women aged 25–30, and at each successive
+quinquennial period of life, at least up to 55–60, had a tendency to
+understate their ages.  There was likewise a certain disposition to
+return ages in round numbers of years, though this was far less
+remarkable than in the Irish census of 1851, from which the following
+figures are taken.
+
+   Age returned.       Males.       Females.
+  35 and under 40        150,471       165,966
+     40 ,, 45            187,410       217,986
+     45 ,, 50            109,618       117,345
+     50 ,, 55            156,337       176,782
+     55 ,, 60             73,511        79,111
+     60 ,, 65            100,963       130,740
+
+The understatement, at the ages mentioned, appeared to have been no
+greater in this country than would have resulted from _every woman_, aged
+25–60, calling herself one year younger than her true age.
+
+It will be obvious how great the utility of censuses taken at intervals
+of _five_ years would be, in enabling us to measure more accurately the
+results of these tendencies to mis-state ages, and particularly the
+effect of ages being returned in round numbers.
+
+The corrections applicable to the returns of males could not be even
+approximately determined without taking into account the effects of
+emigration upon the numbers of that sex.  And as the rates of mortality
+are subject to considerable variation, year by year, I came to the
+conclusion that more reliable results must be sought by the aid of—
+
+(1)  Estimates of the numbers of the _recorded_ deaths which happened
+amongst persons _born_ in each quinquennial period. {6}
+(2)  A computed allowance for unregistered births in excess of the
+unregistered deaths of infants.
+(3)  Estimates of the loss or gain of population through migrations at
+each age.
+
+Table III exhibits the results obtained by computing the first and second
+of these elements, and showing the remaining difference between the two
+sets of census figures, as the combined result of migrations and errors.
+
+On examining this table, I thought it extremely probable that the numbers
+of deaths at high ages were exaggerated, because I know of no reason for
+supposing that the census numbers at such ages are less than the truth;
+and if they are equal to or more than the real numbers of the living, we
+are compelled to conclude either that there is a considerable immigration
+of old people, or, what seems much more compatible with such knowledge as
+we possess, a tendency exists to exaggerate the ages both of the living
+and the dying amongst those who are over seventy years old.
+
+By the aid of the “English Life Table No. 3” it was ascertained that in a
+population resulting from births increasing at 1 per cent. per annum, the
+following numbers would represent the proportions of persons living and
+dying at high ages:—
+
+  Ages.            Living.            Ages.            Living.            Proportion of the
+                                                                        former to the latter.
+              Males.     Fem’l’s.                 Males.     Fem’l’s.     Males.     Fem’l’s.
+                                                                        as 100 to   as 100 to
+      75 &      373054      428741       74½ &      369162      420783        99.0        98.1
+  under 80                            under 79
+ 80 „ „ 85      174287      213540    79 ,, ,,      207496      250662       119.1       117.4
+                                            84
+ 85 „ „ 90       59641       79253   84 „ „ 89       76091       99340       127.6       125.3
+  90 ,, ,,       13652       20037   89 „ „ 94       19023       27331       139.3       136.4
+        95
+    95 „ „        1887        3119   94 „ „ 99        2934        4728       155.5       151.6
+       100
+     100 &         145         279      99 and         260         484       179.3       173.5
+  upwards.                             upwards
+  Ages.            Deaths.            Ages.            Deaths.            Proportion of the
+                                                                        former to the latter.
+              Males.     Fem’l’s.                 Males.     Fem’l’s.     Males.     Fem’ls.
+                                                                        as 100 to   as 100 to
+      75 &       78695       84957       74½ &       79184       84673       100.6        99.7
+  under 85                            under 84
+ 85 „ „ 95       19617       24868   84 „ „ 94       24024       29893       122.5       120.2
+      95 &         932        1476      94 and        1393        2152       149.5       145.8
+   upwards                             upwards
+
+From the above table it may be deduced that, supposing persons aged 71–75
+call themselves (or are described as being) on an average six months
+older than their true age, and if after 75 the exaggeration averages an
+entire year, a very great impression must be thereby made upon the
+returns.
+
+Having arrived thus far, I thought it would be convenient in the first
+instance to try whether these suggestions, which I imagine will be deemed
+moderate and probable, would suffice to explain the apparent influx of
+aged persons, shown in Table III; and whether other suppositions, not
+less reasonable, would serve to overcome the remaining difficulties which
+appear on the face of that table.
+
+The female population being least disturbed by migrations, the necessary
+calculations were made in relation to it, before proceeding further.
+First, the deaths shewn in Table III had to be modified, as follows:—
+
+Born in the    Deaths of Females as in        As now Corrected.
+   years              Table III.
+                1851–60.      1861–70.      1851–60       1861–70.
+1801–05              65030         97481         65030         98802
+1796–1800            72028        108636         72028        112636
+1791–95              82975        114233         84226        118269
+1786–90              93843        105704         97626        107225
+1781–85              99612         78080        103438         76172
+1776–80              94274         43589         95728         39172
+1771–75              71487         17466         69678         14330
+1766–70              40514          4849         36401          3732
+1761–65              16604           894         13613           617
+1756–60               4724            73          3631            50
+1751–55                921             —           636             —
+1746–50                 76             —            53             —
+      Totals        642088        571005        642088        571005
+
+Then it was necessary to make some assumptions as to the effect of
+migrations of females into and from this country, and the following
+estimates were provisionally adopted:—{8a}
+
+         ESTIMATED AVERAGE ANNUAL NET RESULT OF MIGRATIONS.                CONSEQUENT ESTIMATE OF NET LOSS OR GAIN IN 10 YEARS. {8b}
+Age (at end            1851–60.                    1861–70.           Age (at the            1851–60.                    1861–70.
+of the year                                                            end of the
+     of                                                                decennium)
+ migration)
+              Immigrants.    Emigrants.   Immigrants.   Emi grants.                  Net loss.     Net gain.     Net loss.     Net gain.
+                  {8a}          {8b}          {8a}          {8b}
+         0–5          2000          3250          1550          2675           0–5          3750            __          3375             —
+        5–10          2000          3000          1530          2450          5–10          9250             —          8385             —
+       10–15          2800          2280          2170          1900         10–15          6000             —          6040             —
+       15–20          5300          3150          4200          2740         15–20             —          7000             —          3890
+       20–25          2400          3900          1860          3200         20–25             —          7300             —          3820
+       25–30          1050          2700           800          2190         25–30          8150             —          7950             —
+       30–35           630          1630           500          1340         30–35         14250             —         12150             —
+       35–40           400          1050           320           870         35–40         10250             —          8630             —
+       40–45           390           690           320           590         40–45          6150             —          5240             —
+       45–50           280           520           210           420         45–50          3500             —          3080             —
+       50–55           190           420           145           345         50–55          2500             —          2190             —
+       55–60           100           250            75           200         55–60          2000             —          1795             —
+Totals               17540         22840         13680         18920         60–65          1200             —          1025             —
+                                                                             65–70           300             —           250             —
+
+No great confidence can be placed in these last calculations as to the
+effect of migrations at particular ages.  The facts bearing on the
+subject preserved in official records with which I am acquainted are but
+scanty.  The rough, general idea which may be gathered from the table
+does, however, approximate more or less closely to the truth, and may be
+usefully contrasted with the violent fluctuations indicated in Table III.
+These shew, in the midst of their extravagance, a kind of regularity at
+particular ages, thus—
+
+         Age at                 1851–60.              1861–70.
+         end of
+       Decennium.
+                            Loss.      Gain.      Loss.      Gain.
+                     0–5      30575    . . .        42643    . . .
+                    5–10    . . .         3937    . . .        15075
+                   10–15    . . .        24995    . . .        29722
+                   15–20       7416    . . .        14314    . . .
+                   20–25    . . .        85027    . . .        73654
+                   25–30    . . .        27678    . . .        42046
+                   30–35      69827    . . .        74590    . . .
+                   35–40      63559    . . .        54880    . . .
+                   40–45       4438    . . .         7513    . . .
+                   45–50      11175    . . .        11472    . . .
+                   50–55      16118    . . .        18811    . . .
+                   55–60      26073    . . .        28220    . . .
+                   60–65    . . .           35       1360    . . .
+                   65–70    . . .        12614    . . .        18345
+                   70–75       7310    . . .         7982    . . .
+
+Finding it quite impossible to believe in the successive migrations which
+must have taken place, if this extract from Table III represented the
+truth, I pursued the enquiry as to what is the alternative of such a
+belief.
+
+Proceeding to calculate what corrections must be made in the census
+returns of the numbers of females, if the amended estimates of losses by
+death and the calculated results of migrations be adopted, I first
+assumed that each of the three censuses of 1851, 1861, and 1871 might be
+rendered erroneous by misstatements as to ages in _fixed proportions_ at
+the several periods of life.
+
+The endeavour to find such a fixed scale of proportions as would rectify
+all the censuses was, however, unsuccessful; and it became evident that
+the deviations from the truth were greatest in 1851 and least in 1871.
+Three scales of proportions were then arrived at empirically, embodying
+the idea of diminishing degrees of error.  In the course of the
+researches made for the sake of adjusting these scales, I found reason to
+believe that the allowances for unregistered births in the years 1856–60
+and 1861–65 should be increased by ½ per cent.  That addition having been
+made to the estimated numbers of births, it became requisite that equal
+numbers should be added to the estimated losses by emigration; and by
+finally amending the three scales of proportions in conformity with these
+alterations, the results shewn in Table IV were at last arrived at.
+
+These results require us to believe that, whilst our calculation of the
+effect of migrations in 1851–60 was near the truth, the similar estimate
+for 1861–70 was rather beside the mark.  The numbers now required to be
+substituted, however, appear to me to be acceptable, especially when we
+have regard to our inability to form any opinion as to the ages of those
+persons of English birth who returned in large numbers from the United
+States about the time of the war of secession.
+
+The next thing to do was to ascertain what transpositions of the census
+figures are involved, in case we accept the numbers shewn in Table IV as
+being approximately correct.
+
+Table V exhibits these transpositions, and it will be seen that they lead
+to the conclusions shewn in the following statement:—
+
+  STATEMENT A.—Shewing the proportions (per cent.) of female population
+  returned at each age, who were really older or younger than
+  represented.
+
+ Returned              1851. {11a}                            1861.                               1871.
+    as
+   aged
+            Really      Age         Really      Really      Age         Really      Really      Age         Really
+            older.      correct.    y’nger.     older.      correct.    y’nger.     older.      correct.    y’nger.
+       0–5       . . .       100.0       . . .       . . .       100.0       . . .       . . .       100.0       . . .
+      5–10       . . .        97.0         3.0       . . .        97.1         2.9       . . .        97.3         2.7
+     10–15       . . .        98.1         1.9       . . .        98.1         1.9       . . .        98.2         1.8
+     15–20       . . .        97.4         2.6       . . .        97.9         2.1       . . .        98.0         2.0
+     20–25         4.7        92.3         3.0         5.3        92.4         2.3         4.8        93.2         2.0
+     25–30         9.8        90.2       . . .        10.3        89.7       . . .         9.5        90.5       . . .
+     30–35        13.3        86.7       . . .        13.5        86.5       . . .        11.5        88.5       . . .
+     35–40        12.6        87.4       . . .        12.6        87.4       . . .        11.9        88.1       . . .
+     40–45        16.5        83.5       . . .        16.1        83.9       . . .        15.3        84.7       . . .
+     45–50        15.1        84.9       . . .        14.6        85.4       . . .        13.9        86.1       . . .
+     50–55        16.5        83.5       . . .        16.5        83.5       . . .        15.5        84.5       . . .
+     55–60         8.4        91.6       . . .         8.2        91.8       . . .         7.2        92.8       . . .
+     60–65         9.0        91.0       . . .         8.8        91.2       . . .         8.1        91.9       . . .
+     65–70         1.7        98.3       . . .         2.0        98.0       . . .         1.8        98.2       . . .
+     70–75       . . .       100.0       . . .          .3        99.7       . . .          .5        99.5       . . .
+     75–80       . . .        99.9          .1       . . .       100.0       . . .       . . .       100.0       . . .
+     80–85       . . .        91.6         8.4       . . .        92.6         7.4       . . .        93.2         6.8
+     85–90       . . .        90.5         9.5       . . .        92.1         7.9       . . .        93.1         6.9
+     90–95       . . .        84.2        15.8       . . .        85.6        14.4       . . .        88.7        11.3
+    95–100       . . .        62.2        37.8       . . .        62.5        37.5       . . .        68.1        31.9
+ 100 & up.       . . .        38.0        62.0       . . .        38.4        61.6       . . .        50.4        49.6
+
+The ratios in the above statement signify that at no time of life does
+the apparent _under statement_ of age average so much as an entire year;
+{11b} and the exaggeration even at high ages also appears to average less
+than a year, so that there is, I think, no such unlikelihood about the
+figures as should lessen their credibility.  When the irregular results
+of Table III for females are compared with the much more probable results
+shewn in Table IV, and the assumptions by which the latter were arrived
+at, and through the adoption of which the registered births and deaths,
+the returns at successive censuses of the numbers of the female
+population at several ages, and the computed losses by migration have
+been brought into close agreement, are considered, I think it will be
+seen that it is very much safer to adopt my corrections than to rely on
+the actual returns.
+
+As the operation by which the age-returns are to be corrected is
+essentially one of transposition, I suppress the ratios upon the footing
+of which I constructed Table IV, and would employ the proportions shewn
+in Statement A, in applying similar corrections to the population returns
+in detail.  In the absence of any means of judging what variations there
+may be in different parts of the country in the extent of the
+misrepresentations as to ages, I should be inclined to make use of these
+proportions in every case, though not without apprehending that
+inaccuracies of some consequence may thus be fallen into.
+
+One more test may be applied before we finally adopt the figures
+exhibited in Table IV as representing (very nearly) the true female
+population.  The ratios borne by the population there shewn to exist in
+1861 and 1871 respectively, _plus_ emigrants, to the numbers ten years
+earlier, may be computed and compared with those already shewn, which
+were derived from the English Life Table No. 3, thus:—
+
+ Age at the end        Proportion of survivors            The like
+   of the ten      (including emigrants) out of 100     proportion,
+     years.        Females who were living 10 years     according to
+                               earlier.                 the English
+                                                      Life Table, No.
+                                                             3.
+                    According to      According to
+                     corrected         corrected
+                   figures, 1851     figures, 1861
+                     and 1861.         and 1871.
+10–15                         87.4              87.5              86.7
+15–20                         94.2              94.7              94.0
+20–25                         93.2              93.7              93.4
+25–30                         91.4              91.9              91.6
+30–35                         90.5              91.0              90.4
+35–40                         90.0              90.1              89.6
+40–45                         89.0              89.1              88.6
+45–50                         88.3              88.2              87.4
+50–55                         86.8              86.8              85.9
+55–60                         84.7              84.6              83.2
+60–65                         80.2              79.5              78.2
+65–70                         72.7              72.4              70.7
+70–75                         61.6              61.3              60.3
+75–80                         47.1              46.9              47.2
+
+On examining the ratios thus obtained, it will be seen that they
+harmonise well with the probability shewn by the Life Table.  Each set of
+ratios is symmetrically graduated, whilst the proportions obtained by the
+use of the uncorrected Census Tables were, as has already been observed,
+by turns exaggerated and depressed.
+
+Having thus arrived at a sufficiently near approximation to the truth in
+the case of females, it remains for us to endeavour to do the same in
+that of males.  The effect of emigration must be first computed, which
+may be done thus:—
+
+ Age at end            1851–60.                    1861–70.
+of the year
+     of
+ migration.
+               Immigrants     English      Immigrants     English
+                  from       Emigrants.       from       Emigrants.
+                Ireland,                    Ireland,
+                  &c.                         &c.
+0–5                   2000          3500          1500          2200
+5–10                  2000          3500          1500          2200
+10–15                 3000          3000          2200          2000
+15–20                 6000          6500          4200          4000
+20–25                 2500          9000          1750          6000
+25–30                 1000          8000           750          5000
+30–35                  500          5000           400          3400
+35–40                  500          3000           350          2100
+40–45                  400          1850           260          1200
+45–50                  300          1300           200           800
+50–55                  200          1000           150           600
+55–60                  100           700           100           440
+      Totals         18500         46350         13360         29940
+
+The above figures are based on an augmented estimate of unregistered male
+births, to correspond with the increased estimate of unregistered female
+births used in compiling Table IV.
+
+The total loss or gain of male inhabitants at each age, resulting from
+the above migrations, might possibly have been as under, assuming the
+course of events to have been quite unvarying year by year:—
+
+          Age at                     Net Loss.
+         close of
+        decennium.
+                               1851–60.      1861–70.
+                        0–5          4500          2100
+                       5–10         12000          5600
+                      10–15         10500          4300
+                      15–20          4500      200 {14}
+                      20–25         22000         11350
+                      25–30         54500         33600
+                      30–35         61500         38750
+                      35–40         44000         28750
+                      40–45         25850         17570
+                      45–50         15250         10000
+                      50–55         10300          6230
+                      55–60          7800          4470
+                      60–65          4600          2600
+                      65–70          1200           680
+                     Totals        278500        165800
+
+As, however, those who departed in the earlier years of the decennium
+1861–70 for the United States, may, to a great extent, have returned
+home, as well as many of those who had previously left the country, it
+seems natural to suppose that the emigrants of 1861–70 were, on the
+whole, much younger than the above Table would shew.
+
+The result of a careful study of the various figures has been to convince
+me that the ages of male children, as well as those of female children,
+are overstated.  At the age 15 and under 20 males do not appear to
+exaggerate their ages so often as females do.  From 25 to 70 there seems
+to be a general but slight tendency to understate age, to the extent, on
+an average, of a quarter or at most nearly half a year.  After 70, the
+same tendency to exaggerate age, which was noticed in the case of
+females, seems to prevail.
+
+In Tables VI and VII are contained the same approximate facts respecting
+males, as are furnished by Tables IV and V for our female population.
+The figures of all these statements have been arrived at empirically, but
+so as to involve the most moderate and regular corrections which will
+meet the difficulties of the case.
+
+The resulting proportions of supposed accurate and inaccurate returns at
+each age may be thus shewn:—
+
+                                STATEMENT B.
+
+  Shewing the proportions (per cent.) of male population returned at each
+          age, who were really older or younger than represented.
+
+ Returned                 1851.                               1861.                               1871.
+    as
+   aged
+              Really       Age        Really      Really       Age        Really      Really       Age        Really
+              older.     correct.    y’nger.      older.     correct     y’nger.      older.     correct.    y’nger.
+       0–5    . . .           1000       . . .       . . .       100.0       . . .       . . .       100.0       . . .
+      5–10       . . .        97.0         3.0       . . .        97.1         2.9       . . .        97.3         2.7
+     10–15       . . .        98.8         1.2       . . .        98.3         1.7       . . .        98.3         1.7
+     15–20       . . .        99.1          .9       . . .        98.3         1.7       . . .        98.2         1.8
+     20–25         1.0        98.7          .3          .9        98.4          .7          .5        98.6          .9
+     25–30         1.6        98.4       . . .         1.0        99.0       . . .          .6        99.4       . . .
+     30–35          .7        99.3       . . .          .1        99.9       . . .       . . .       100.0       . . .
+     35–40          .2        99.8       . . .       . . .       100.0       . . .       . . .       100.0       . . .
+     40–45         3.5        96.5       . . .         1.6        97.8          .6         1.0        98.3          .7
+     45–50         5.0        95.0       . . .         1.9        98.1       . . .         1.2        98.8       . . .
+     50–55         9.0        91.0       . . .         4.2        95.8       . . .         3.1        96.9       . . .
+     55–60         4.7        95.3       . . .         1.2        98.8       . . .          .6        99.4       . . .
+     60–65         7.2        92.8       . . .         4.9        95.1       . . .         4.1        95.9       . . .
+     65–70       . . .       100.0       . . .       . . .       100.0       . . .       . . .       100.0       . . .
+     70–75       . . .       100.0       . . .       . . .       100.0       . . .       . . .       100.0       . . .
+     75–80       . . .        97.3         2.7       . . .        97.9         2.1       . . .        98.8         1.2
+     80–85       . . .        88.9        11.1       . . .        91.2         8.8       . . .        94.8         5.2
+     85–90       . . .        87.3        12.7       . . .        89.4        10.6       . . .        94.9         5.1
+     90–95       . . .        86.3        13.7       . . .        88.6        11.4       . . .        93.7         6.3
+    95–100       . . .        57.0        43.0       . . .        59.9        40.1       . . .        74.4        25.6
+ 100 & up.       . . .        25.6        74.4       . . .        36.4        63.6       . . .        41.5        58.5
+
+The emigration {15} at several ages shewn in Table VI, though graduated
+with much regularity, is very different in amount at particular ages from
+that which has been computed on page 14 (_ante_), and each person must
+form his own opinion as to which set of figures is likely to be nearest
+the truth.
+
+Applying the final test previously used, by calculating the ratios of
+survivors indicated by the corrected figures, we have:—
+
+   Age at the          Proportion of survivors            The like
+ end of the ten               (including                 proportion
+     years.        emigrants) out of 100 males who      according to
+                                 were                       the
+                      living ten years earlier.         English Life
+                                                           Table
+                                                           No. 3.
+                    According to      According to
+                     corrected         corrected
+                      figures,          figures,
+                   1851 and 1861.    1861 and 1871.
+10–15                         87.1              87.0              86.4
+15–20                         94.3              94.8              94.2
+20–25                         93.7              94.1              93.7
+25–30                         92.0              92.0              92.0
+30–35                         91.4              91.1              90.9
+35–40                         90.6              89.8              89.9
+40–45                         89.3              88.3              88.6
+45–50                         87.4              86.4              86.8
+50–55                         84.9              84.3              84.3
+55–60                         81.0              80.2              80.5
+60–65                         76.6              75.1              75.3
+65–70                         68.8              66.5              67.7
+70–75                         57.7              56.3              56.9
+75–80                         42.9              40.8              43.5
+
+These ratios, like those obtained from the corrected female population,
+shew a great deal of regularity, and resemble those derived from the
+English Life Table very closely, whilst they deviate widely from those
+based upon the uncorrected census figures.
+
+It may perhaps be supposed that such resemblance is artificial, and is
+really the result of the adoption of the Life Table as a guide in the
+apportionment of the recorded deaths under the years of birth.  I am,
+however, sure that such a use of the Life Table cannot have controlled
+the result to any very important extent.  Any apportionment of deaths
+occurring amongst a gradually increasing population like that of England,
+effected on a consistent and reasonable plan, would necessarily come
+within a very few thousands of the figures shewn in Tables IV and VI, at
+least for that period of life extending over fifty years or thereabouts,
+which lies between childhood and old age. {16}
+
+There is this further remark to be made, viz., that the series of ratios,
+though they resemble those derived from the Life Table, deviate from them
+at particular ages to a very appreciable extent thus:—
+
+                        MALES—Loss by death.                     FEMALES—Loss by death.
+ Age at end   Life Table.    Corrected     Corrected    Life Table.    Corrected     Corrected
+     of                     Population,   Population,                 Population,   Population,
+ decennium.                   1851/60.      1861/70.                    1851/60.      1861/70.
+       25–30           8.0           8.0           8.0           8.4           8.6           8.1
+       30–35           9.1           8.6           8.9           9.6           9.5           9.0
+       35–40          10.1           9.4          10.2          10.4          10.0           9.9
+       40–45          11.4          10.7          11.7          11.4          11.0          10.9
+       45–50          13.2          12.6          13.6          12.6          11.7          11.8
+       50–55          15.7          15.1          15.7          14.1          13.2          13.2
+       55–60          19.5          19.0          19.8          16.8          15.3          15.4
+       60–65          24.7          23.4          24.9          21.8          19.8          20.5
+
+The actual mortality seems in general to be lower than that shewn in the
+Life Table, sometimes to the extent of five or six or even nine per cent.
+If, therefore, we were to compute the numbers of deaths on the basis of
+the Life Table, the result would be found to exceed the recorded deaths
+by many thousands.  I naturally prefer to accept the teachings of the
+recorded facts, although they may not have been transposed quite
+correctly, rather than rely upon the Life Table,—which I feel sure has
+been graduated by some mathematical process at least as empirical as any
+estimate of mine.  At the same time, I think I am bound to point out that
+so near a correspondence between the general character of my results and
+that of those obtained by mathematical graduation is a most important
+fact, tending to convince us more strongly than ever that great
+regularity would be found to exist in the age-distribution of deaths
+occurring amongst a large population, and during a moderately long period
+of time, if only a truthful record of ages could be secured.
+
+                APPLICATION OF THE SUGGESTED CORRECTIONS.
+
+On applying to the census figures of 1861 and 1871 for each of the eleven
+divisions, the proportional corrections shewn in Statements A and B,
+certain results were obtained, of which the following is an example:—
+
+    Age in          Division VIII              Ratio of            National      Difference.
+    1871.          (North-Western).         Population in          ratio of
+                 Female Population in            1871             survivors
+                                              to that in          (including
+                                                1861,           allowance for
+                                             (per cent.)         Emigrants.)
+                1861.       1871.
+         10–15      205692      179947                    87.5            87.5           . . .
+         15–20      167248      171382                   102.5            94.7            +7.8
+         20–25      151238      155554                   102.9            93.7            +9.2
+         25–30      149921      145825                    97.3            91.9            +5.4
+         30–35      144649      131174                    90.7            91.0             -.3
+
+The final result of the above calculation is a column of differences
+which, if the rate of mortality in Lancashire and Cheshire exactly
+equalled that of the nation, would represent the gain or loss at each age
+on a balance of migrations.  The whole of the differences thus
+ascertained for the eleven divisions respectively are shewn in Table
+VIII.
+
+The last column in that table, shewing the differences for England and
+Wales, of course represents simply the effect of migrations.  I think
+that the differences in the other columns, at ages up to 35, are almost
+wholly consequent upon migrations. {19a}  The mortality in London and in
+Lancashire being greater than the average, the figures at those ages are
+perhaps less striking (because partially neutralised by such excessive
+mortality) than if the results of migrations stood out by themselves.  It
+seems clear, in fact, that whilst the South-western counties _lose_ more
+than 26.8 per cent. of their young men in the ten years beginning with
+age 10 to 15 and ending with age 20 to 25, London _gains_ rather more
+than 14.5 per cent. at the same time of life.
+
+The ratios last mentioned, and many others which are shewn in Table VIII,
+are of great importance, as indicating the movements of large numbers of
+persons, {19b} and therefore, by way of rendering our impressions about
+their meaning more definite, I have taken the pains to apportion the
+deaths recorded in Divisions I, V, and VIII at certain ages, with the
+following results:—
+
+  Born in.       1861.         1871.        Apportioned      Loss or                        Per cent. on                             The per centages in Table
+                                              Deaths,        gain by                         Population                               VIII being consequently
+                                             1861–70.      migrations.                        in 1861.                                     made up thus—
+                                                                                   Deaths                    Loss or            Loss or       Loss or        Total.
+                                                                                                             Gain by              gain        gain by
+                                                                                                           Migrations.          compared    migrations.
+                                                                                                                                  with
+                                                                                                                                average
+                                                                                                                              death loss.
+                                                                                                                                  {20}
+                                                                     Male Population (corrected.)
+DIV. I. LONDON.
+     1851–55        147228        141937             7849                       +2558                         5.3       +1.7           -.1          +1.7          +1.6
+     1846–50        130615        141809             8042                      +19236                         6.1      +14.7           -.2         +14.7         +14.5
+     1841–45        118767        134948            11004                      +27185                         9.3      +22.9          -1.3         +22.9         +21.6
+     1836–40        120587        118776            12405                      +10594                        10.3       +8.8          -1.4          +8.8          +7.4
+DIV. V. SO.-WEST.
+     1851–55        106614         91014             4601                      -10999                         4.3      -10.3           +.9         -10.3          -9.4
+     1846–50        100897         67943             4838                      -28116                         4.8      -27.9          +1.1         -27.9         -26.8
+     1841–45         96505         57468             5637                      -27400                         6.2      -30.3          +1.8         -30.3         -28.5
+     1836–40         69223         50745             5430                      -13048                         7.8      -18.9          +1.1         -18.9         -17.8
+DIV. VIII. LANC. AND CHESH.
+     1851–55        166782        160706            10641                       +4565                         6.4       +2.7          -1.2          +2.7          +1.6
+     1846–50        150583        145788            10945                       +6150                         7.3       +4.1          -1.4          +4.1          +2.7
+     1841–45        138424        133781            13247                       +8604                         9.6       +6.2          -1.6          +6.2          +4.6
+     1836–40        132498        119061            13348                         -89                        10.1        -.1          -1.2           -.1          -1.2
+                                                                    Female Population (corrected.)
+DIV. I. LONDON.
+     1851–55        149084        164132             7810                      +22858                         5.2      +15.3           +.1         +15.3         +15.4
+     1846–50        133936        165675             7908                      +39647                         5.9      +29.6           +.4         +29.6         +30.0
+     1841–45        139844        155003            10469                      +25628                         7.5      +18.3           +.6         +18.3         +18.9
+     1836–40        143074        136729            11944                       +5599                         8.3       +3.9            +7          +3.9          +4.6
+DIV. V. SO.-WEST.
+     1851–55        106074         90500             4892                      -10682                         4.6      -10.1           +.7         -10.1          -9.4
+     1846–50         97784         77303             5375                      -15106                         5.5      -15.4           +.8         -15.4         -14.6
+     1841–45         91581         68751             6249                      -16581                         6.8      -18.1          +1.3         -18.1         -16.8
+     1836–40         77717         61231             5950                      -10536                         7.7      -13.5          +1.3         -13.5         -12.2
+DIV. VIII. LANC. AND CHESH.
+     1851–55        167248        171382            10115                      +14249                         6.0       +8.5           -.7          +8.5          +7.8
+     1846–50        151238        155554            11094                      +15410                         7.3      +10.2          -1.0         +10.2          +9.2
+     1841–45        149921        145825            14024                       +9928                         9.3       +6.6          -1.2          +6.6          +5.4
+     1836–40        144649        131174            14900                       +1425                        10.3       +1.0          -1.3          +1.0           -.3
+
+Similar tables might be constructed for every age, and not only for each
+registration division, but for every registration district in the
+kingdom.
+
+It will be observed that the apparent gain of the metropolitan division
+through migrations is less striking than might have been expected,
+although it is very large.  But what is really shewn is the _balance_
+resulting, after deducting from the _gain_ of strangers, the _loss_
+arising from the removal of families over the border of the division into
+extra metropolitan Middlesex, Surrey and Kent, or even into the nearer
+parts of Essex and Hertfordshire.  If the London boundary were largely
+extended, it would be found that the _gain_ by immigration from a
+distance is larger, and the _loss_ by emigration is less, than now
+appears; and, in short, the statements whether of urban gain or of rural
+loss at ages up to 35 would be more striking than those exhibited in
+Table VIII.
+
+After 35, both sexes in London and in the north-western counties exhibit
+a steady loss at each age, no doubt attributable in the main to the heavy
+mortality experienced in those divisions.  The rural divisions numbered V
+and XI shew a loss until past the age of 50, due to emigration.  These
+and several other agricultural divisions (those numbered II, III, and
+IV), shew considerable gains at the higher ages, partly due to their
+mortality being low, and partly resulting from other causes.
+
+It is evident that those who emigrate beyond sea (from Division V for
+example) are older persons than those who leave their native division to
+seek employment at a short distance, as do the majority of those who
+migrate from the eastern counties (Division IV).  Two-thirds of these
+latter are perhaps between the ages of 14 and 20 years when they depart,
+and very few of them can be more than 25 years old.
+
+The apparent relative mortality of the sexes at certain ages must be
+influenced by the dissimilar degrees of inaccuracy in the population
+returns for males and females respectively, as the following short
+statement will shew:—
+
+                 Mean population           Mean population                Deaths                    Deaths per 1000.
+                  1861–71, from             1861–71, from                1861–70.
+                   uncorrected                corrected
+                     figures.                  figures.
+                                                                                                 From              From
+                                                                                             uncorrected.       corrected.
+               Males.      Fem’l’s.      Males.      Fem’l’s.      Males.      Fem’l’s.      M.       F.       M.        F.
+      15–20      1021321      1035205      1011321      1035632        62921        68553      6.2      6.6      6.2       6.6
+      20–25       906063      1011063       892063       938433        76591        80463      8.5      8.0      8.6       8.6
+      25–30       788782       886088       788782       849341       147734       160329      9.9      9.7      9.9      10.0
+      30–35       704005       769381       710005       761546
+
+The facts I have stated, and the experiments I have made, are perhaps
+sufficient to suggest by what methods of estimation an idea can be gained
+of the distribution of population as to ages, when once the total
+increase or decrease is known. {22}  But they also tend to shew the
+difficulties which surround the subject, and the need which exists that
+enquirers should summon up sufficient courage to treat with a certain
+degree of freedom the returns of the census and registration offices.
+
+                                * * * * *
+
+TABLE I.—Showing the Rate of Increase of Population (per cent.) of each
+sex and _at each age_ in the several Registration Divisions of England
+and Wales during the ten years, 1851–61.
+
+TABLE II.—Shewing the Proportion (per cent.) of Population enumerated in
+1861 to that enumerated _at corresponding ages ten years earlier_, in the
+several Registration Divisions, and in England and Wales.
+
+[These two Tables having been calculated simply with the object of
+shewing that the proportional results obtainable by a comparison of the
+numbers enumerated at successive censuses, at particular ages, do not
+display sufficient regularity to justify the belief that such proportions
+would be approximately maintained decennium after decennium,—it is
+considered unnecessary to print them.  The remaining Tables are printed
+in full, as without reference to, and careful consideration of, the facts
+they display, the paper would almost lose its significance.]
+
+TABLE III.—Shewing the enumerated population in 1851, 1861, and 1871, at
+each quinquennial period of life, the estimated births in 1851–70, the
+registered deaths apportioned according to date of birth, and the numbers
+of inhabitants lost or gained, on the hypothesis of the correctness of
+the preceding figures.
+
+   Born           Population enumerated.          Deaths registered.            Difference—referable to errors
+    in                                                                               and migrations {23a}
+                          MALES.                        MALES.                 1851–60.                1861–70.
+              1851.       1861.       1871.      1851–60.    1861–70.     Loss.       Gain.       Loss.       Gain.
+ 1866–70      . . .        2011024     1536464    . . .         427200    . . .       . . .          47360    . . .
+                             {23b}
+ 1861–65      . . .        1887702     1350819    . . .         546170    . . .       . . .       . . .           9287
+                             {23b}
+ 1856–60       1751531     1354907     1220770      365536      180534       31088    . . .       . . .          46397
+                 {23b}
+ 1851–55       1651656     1172960     1084713      482227       60259    . . .           3531       27988    . . .
+                 {23b}
+ 1846–50       1176753     1059889      951917      156291       62499    . . .          39427       45473    . . .
+ 1841–45       1050228      957930      843278       58497       75494       33801    . . .          39158    . . .
+ 1836–40        963995      860210      746320       60004       75606       43781    . . .          38284    . . .
+ 1831–35        873236      734287      640819       69604       74657       69345    . . .          18811    . . .
+ 1826–30        795455      661690      590097       67451       77910       66314    . . .       . . .           6317
+ 1821–25        699345      590280      506947       65694       81085       43371    . . .           2248    . . .
+ 1816–20        617889      551058      455788       66739       84309          92    . . .          10901    . . .
+ 1811–15        532680      453310      345907       67483       89886       11887    . . .          17517    . . .
+ 1806–10        474211      392196      294675       69394       95736       12621    . . .           1785    . . .
+ 1801–05        392882      299000      205370       73888      103431       19994    . . .       . . .           9801
+1796–1800       346104      265536      149887       78530      108473        2038       . . .        7176    . . .
+ 1791–95        254892      175538       82091       84399      108450    . . .           5045    . . .          15003
+ 1786–90        227240      128428       38573       90915       94795        7897    . . .       . . .           4940
+ 1781–85        151640       71780       11685       92953       64919    . . .          13093    . . .           4824
+ 1776–80        114730       34256        2383       83815       33036    . . .           3341    . . .           1163
+ 1771–75         65016       10359         390       58972       11790    . . .           4315    . . .           1821
+ 1766–70         31690        2191          41       30694        2768    . . .           1195    . . .            618
+ 1761–65         10423         399    . . .          11270         397    . . .           1246           2    . . .
+ 1756–60          2282          55    . . .           2781          25    . . .            554          30    . . .
+ 1751–55           456    . . .       . . .            463    . . .       . . .              7    . . .       . . .
+ 1746–50            78    . . .       . . .             28    . . .             50    . . .       . . .       . . .
+ Age not      . . .       . . .       . . .            908    . . .       . . .            908    . . .       . . .
+  stated
+    Totals    12184412    13674985    11058934     2138536     2459489      342279       72662      256733      100171
+                         FEMALES.                      FEMALES.
+ 1866–70      . . .        1936784     1534812    . . .         359329    . . .       . . .          42643    . . .
+                             {23c}
+ 1861–65      . . .        1814081     1355707    . . .         473449    . . .       . . .       . . .          15075
+                             {23c}
+ 1856–60       1681961     1345875     1203469      305511      172128       30575    . . .       . . .          29722
+                 {23c}
+ 1851–55       1586949     1171106     1095699      419780       61093    . . .           3937       14314    . . .
+                 {23c}
+ 1846–50       1171354     1045287     1052843      151062       66098    . . .          24995    . . .          73654
+ 1841–45       1042131      974712      937299       60003       79459        7416    . . .       . . .          42016
+ 1836–40        949362      969283      813675       65106       81018    . . .          85027       74590    . . .
+ 1831–35        883953      834877      700534       76754       79463    . . .          27678       54880    . . .
+ 1826–30        871152      725088      639705       76237       77870       69827    . . .           7513    . . .
+ 1821–25        771130      634262      546094       73309       76696       63559    . . .          11472    . . .
+ 1816–20        658237      583069      488901       70730       75357        4438    . . .          18811    . . .
+ 1811–15        555879      477530      372261       67174       77049       11175    . . .          28220    . . .
+ 1806–10        494408      414367      328010       63923       84997       16118    . . .           1360    . . .
+ 1801–05        406107      315004      235868       65030       97481       26073    . . .       . . .          18345
+1796–1800       362697      290704      174086       72028      108636    . . .             35        7982    . . .
+ 1791–95        271395      201034       99896       82975      114233    . . .          12614  . . .            13095
+ 1786–90        254070      152917       51265       93843      105704        7310    . . .       . . .           4052
+ 1781–85        175879       88860       17896       99612       78080    . . .          12593    . . .           7116
+ 1776–80        135432       45403        4338       94274       43589    . . .           4245    . . .           2524
+ 1771–75         81086       15608         855       71487       17466    . . .           6009    . . .           2713
+ 1766–70         42150        3994         119       40514        4849    . . .           2358    . . .            974
+ 1761–65         14982         839    . . .          16604         894    . . .           2461    . . .             55
+ 1756–60          3969         146    . . .           4724          73    . . .            901          73    . . .
+ 1751–55           874    . . .       . . .            921    . . .       . . .             47    . . .       . . .
+ 1746–50           137    . . .       . . .             76    . . .             61    . . .       . . .       . . .
+Age not       . . .       . . .       . . .            502    . . .       . . .            502    . . .       . . .
+stated
+    Totals    12415294    14040830    11653332     2072179     2386011      236552      183402      261858      209371
+
+TABLE IV.—Shewing the Female population in 1851, 1861, and 1871, as
+corrected upon certain hypotheses, the estimated births in 1851–70, the
+registered deaths, apportioned according to date of birth, after
+adjustment, and the loss or gain of inhabitants upon a balance of
+migrations.
+
+ Born in         Population (corrected).          Deaths registered.             Loss or gain by migrations.
+                         FEMALES.                      FEMALES.                1851–60.                1861–70.
+              1851.       1861.       1871.      1851–60.    1861–70.     Loss.       Gain.       Lose.     Gain.
+                                                  {24b}
+ 1866–70      . . .     1936784        1571448    . . .         359329    . . .       . . .           6007    . . .
+                        {24a}
+ 1861–65      . . .     1822952        1340794    . . .         473449    . . .       . . .           8709    . . .
+                        {24a}
+ 1856–60       1690145     1379277     1203469      305511      172128        5357    . . .           3680    . . .
+                 {24a}
+ 1851–65       1586949     1157052     1094603      419780       61093       10117    . . .           1350    . . .
+                 {24a}
+ 1846–50       1203052     1046332      981249      151062       66098        5658    . . .       . . .           1015
+ 1841–45       1028583      976661      898871       60003       79459    . . .           8081    . . .           1669
+ 1836–40        954109      895618      809607       65106       81018    . . .           6015        4993    . . .
+ 1831–35        887489      799812      711042       76754       79463       10923    . . .           9307    . . .
+ 1826–30        804073      713486      624991       76237       77870       14350    . . .          10625    . . .
+ 1821–25        736430      652021      567938       73309       76696       11100    . . .           7387    . . .
+ 1816–20        645730      569658      488901       70730       75357        5342    . . .           5400    . . .
+ 1811–15        573667      501406      421400       67174       77019        5087    . . .           2957    . . .
+ 1806–10        483036      415610      328010       63923       84997        3503    . . .           2603    . . .
+ 1801–05        426412      357844      258275       65030       98802        3538    . . .            767    . . .
+1796–1800       364148      290704      177568       72028      112636        1416    . . .            500    . . .
+ 1791–95        308305      222745      104192       84226      118269        1334    . . .            284    . . .
+ 1786–90        254070      156434       49008       97626      107225          10    . . .            201    . . .
+ 1781–85        195578       92680       17144      103438       70172    . . .            540    . . .            636
+ 1776–80        138547       43269        4121       95728       39172    . . .            450    . . .             24
+ 1771–75         84572       14952         641       69678       14330    . . .             58    . . .             19
+ 1766–70         40043        3734          60       36401        3732    . . .             92    . . .             58
+ 1761–65         14188         614    . . .          13613         617    . . .             39    . . .              3
+ 1756–60          3671          56    . . .           3631          50    . . .             16           6    . . .
+ 1751–55           629    . . .       . . .            636    . . .       . . .              7    . . .       . . .
+ 1746–50            52    . . .       . . .             53    . . .       . . .              1    . . .       . . .
+    Totals    12423478    14049701    11653332     2071677     2335011       77735       15899       64782        3424
+
+TABLE V.—Shewing the degree of incorrectness of the returns of the ages
+of the female population, according to the hypotheses upon which Table IV
+is based.
+
+                                  1851.                                        1861.                                        1871.
+  True Age.     Returned at     Returned      Returned at    Returned at     Returned      Returned at    Returned at     Returned      Returned at
+                next lower     correctly.     next higher    next lower     correctly.     next higher    next lower     correctly.     next higher
+                   age.                          age.           age.                          age.           age.                          age.
+     0–5           . . .            1171354          31698      . . .            1345875          33402      . . .            1534812          36636
+    5–10           . . .            1010433          18150      . . .            1137704          19348      . . .            1319071          21723
+    10–15          . . .             931212          22897      . . .            1025939          20393      . . .            1181746          21723
+    15–20          . . .             861056          26433      . . .             954319          22342      . . .            1073976          20627
+    20–25          . . .             804073      . . .          . . .             895618      . . .          . . .             981249      . . .
+    25–30              40646         695784      . . .              51323         748489      . . .              50967         847904      . . .
+    30–35              75346         570384      . . .              86388         627098      . . .              89395         720212      . . .
+    35–40              87853         485814      . . .              97990         554031      . . .              93463         617579      . . .
+    40–45              70065         412971      . . .              80231         489427      . . .              82955         542036      . . .
+    45–50              81437         344975      . . .              93642         407764      . . .              97669         470269      . . .
+    50–55              61132         303016      . . .              69766         345844      . . .              75825         413076      . . .
+    55–60              59681         248624      . . .              68523         289321      . . .              75325         345575      . . .
+    60–65              22771         231299      . . .              25683         265021      . . .              26686         301324      . . .
+    65–70              22771         172807      . . .              25683         197062      . . .              26686         231589      . . .
+    70–75               3072         135432             43           3972         152462      . . .               4279         173289      . . .
+    75–80          . . .              81043           3529            455          88860           3365            797          99896           3499
+    80–85          . . .              38621           1422      . . .              42038           1231      . . .              47766           1242
+    85–90          . . .              13560            628      . . .              14377            575      . . .              16654            490
+    90–95          . . .               3341            330      . . .               3419            315      . . .               3848            273
+   95–100          . . .                544             85      . . .                524             90      . . .                582             59
+    100–           . . .                 52      . . .          . . .                 56      . . .          . . .                 60      . . .
+
+TABLE VI.—Shewing the Male population in 1851, 1861 and 1871, as
+corrected upon certain hypotheses; the estimated births in 1851–70; the
+registered deaths apportioned according to date of birth, after
+adjustment; and the loss or gain of inhabitants upon a balance of
+migrations.
+
+Born in          Population (Corrected.)          Deaths Registered.             Loss or gain by migrations.
+                          Males.                        Males.
+                                                                               1851–60.                1861–70.
+              1851.       1861.       1871.      1851–60.    1861–70.     Loss.       Gain.       Loss.       Gain.
+                                                  {25b}
+ 1866–70      . . .        2006083     1572464    . . .         427200    . . .       . . .           6419    . . .
+                             {25a}
+ 1861–65      . . .        1892329     1335819    . . .         546170    . . .       . . .          10340    . . .
+                             {25a}
+ 1866–60       1758383     1388307     1218770      365536      180534        4540    . . .       . . .          10997
+                 {25a}
+ 1851–55       1651656     1157960     1674713      482227       60259       11469    . . .          22988    . . .
+                 {25a}
+ 1846–60       1208453     1057889      937917      156291       62499    . . .           5727       57473    . . .
+ 1841–45       1030228      947930      843278       58497       75494       23801    . . .          29158    . . .
+ 1836–40        960000      846210      751320       60004       75606       53786    . . .          19284    . . .
+ 1831–35        868231      734287      644819       69604       74657       64340    . . .          14811    . . .
+ 1826–30        784455      668690      580097       67451       77910       48314    . . .          10683    . . .
+ 1821–25        696345      594280      506947       65694       81085       36371    . . .           6248    . . .
+ 1816–20        624889      539058      447788       66739       84369       19092    . . .           6901    . . .
+ 1811–15        535680      453310      357907       67483       89886       14887    . . .           5517    . . .
+ 1806–10        458711      384196      284675       69394       95736        5121    . . .           3785    . . .
+ 1801–05        389882      312000      217370       73888      104635        3994    . . .       . . .          10005
+1796–1800       334904      256136      150887       78530      111999         238    . . .       . . .           6750
+ 1791–95        273892      188538       83091       85504      111681       . . .         150    . . .           6234
+ 1786–90        222840      129928       37173       94206       95445       . . .        1294    . . .           2690
+ 1781–85        168040       73280       11235       96016       62880       . . .        1256    . . .            835
+ 1776–80        116466       32356        2333       84496       29493       . . .         386   530 {25c}       . . .
+ 1771–75         66800        9509         314       57119        9550         172    . . .       . . .      355 {25c}
+ 1766–70         29493        2101          17       27390        2118           2    . . .       . . .             34
+ 1761–65          9412         274    . . .           9116         266          22    . . .              8    . . .
+ 1756–60          2166          20    . . .           2114          17          32    . . .              3    . . .
+ 1751–55           318    . . .       . . .            310    . . .              8    . . .       . . .       . . .
+ 1746–50            20    . . .       . . .             19    . . .              1    . . .       . . .       . . .
+    Totals    12191264    13674671    11058934     2137628     2459489      286190        8813      194148       37900
+
+TABLE VII.—Shewing the degree of incorrectness of the returns of the ages
+of the Male population, according to the hypotheses upon which Table VI
+is based.
+
+    True                          1851.                                        1861.                                        1871.
+    Age.
+                Returned at     Returned       Returned       Returned       Returned       Returned       Returned       Returned       Returned
+                next lower     correctly.       at next        at next      correctly.       at next        at next      correctly.       at next
+                   age.                       higher age.    lower age.                    higher age.    lower age.                    higher age.
+          0–5      . . .            1176753          31700      . . .            1354907          33400      . . .            1536464          36000
+         5–10      . . .            1018528          11700      . . .            1139560          18400      . . .            1314819          21000
+        10–15      . . .             952295           7705      . . .            1041489          16400      . . .            1199770          19000
+        15–20      . . .             865531           2700      . . .             941530           6400      . . .            1065713           9000
+        20–25      . . .             784455      . . .          . . .             846210      . . .          . . .             937917      . . .
+        25–30           8300         688045      . . .               7600         726687      . . .               5000         838278      . . .
+        30–35          11300         613589      . . .               7600         661090      . . .               5000         746320      . . .
+        35–40           4300         531380      . . .                600         590280           3400      . . .             640819           4000
+        40–45           1300         457411      . . .          . . .             539058      . . .          . . .             580097      . . .
+        45–50          16800         373082      . . .               8600         444710      . . .               6000         500947      . . .
+        50–55          19800         315104      . . .               8600         375596      . . .               6000         441788      . . .
+        55–60          31000         242892      . . .              16600         295400      . . .              14000         343907      . . .
+        60–65          12000         210840      . . .               3600         252536      . . .               2000         282675      . . .
+        65–70          16400         151640      . . .              13000         175538      . . .              12000         205370      . . .
+        70–75      . . .             114730           1736      . . .             128428           1500      . . .             149887           1000
+        75–80      . . .              63280           3520      . . .              70280           3000      . . .              81091           2000
+        80–85      . . .              28170           1323      . . .              31256           1100      . . .              36573            600
+        85–90      . . .               9100            312      . . .               9259            250      . . .              11085            150
+        90–95      . . .               1970            196      . . .               1941            160      . . .               2233            100
+       95–100      . . .                260             58      . . .                239             35      . . .                290             24
+         100–      . . .                 20      . . .          . . .                 20      . . .          . . .                 17      . . .
+
+TABLE VIII.—Shewing the differences between (1) The National percentage
+of persons surviving at each age in 1871, (including estimated loss by
+emigration in 1861–71) calculated on the numbers ten years younger
+enumerated in 1861; and (2) the ratios of inhabitants enumerated in each
+Division in 1871, compared with the respective populations ten years
+younger enumerated in 1861.  The populations employed have first been
+corrected according to Statements A and B.
+
+  Age in         I.           II.         III.          IV.          V.           VI.         VII.         VIII.         IX.          X.           XI.        England
+   1871        London.       South        South      Eastern.       South        West         North        North     Yorkshire.    Northern.     Welsh.         and
+                           Eastern.     Midland.                  Western.     Midland.     Midland.     Western.                                             Wales.
+                                         MALES.  Excess or deficiency of the ratio of survivors, compared with National ratio.
+10–15               -4.3         +7.6         +6.1         +1.9         -1.3          -.3          -.6          -.7         +2.8         +4.2          -.7         +0.8
+15–20               +1.6         +1.2         -8.8        -11.2         -9.4         -3.6         -6.0         +1.6         +3.6         +4.8         -3.6         -2.0
+20–25              +14.5         -4.0        -20.9        -25.3        -26.8        -10.0        +14.2         +2.7         +4.4        +12.8         -9.9         -6.4
+25–30              +21.6         -3.2        -14.1        -21.2        -28 5         -8.4        +13.0         +4.6         +6.0        +14.6        -13.1         -3 0
+30–35               +7.4         -2.8         -4.2         -6.6        -17.8         -5.9         -6.0         -1.2         +4.5         +5.5         -9 5         -2.3
+35–40               -1.6          +.1         +1.0          -.3         -8.8         +4.4         -2.3         -3.4         +3.8         +2.0         -7.0         -2.0
+40–45               -3.6          +.2         +1.8          +.5         -4.9         -3.4         +1.0         -2.3         +3.7         +3.3         -7.2         -1.5
+45–50               -5.9         +1.7         +2.4         +1.9         +1.1         +1.8          +.6         -3.5         +1.8         +2.9         -3.0         -1.1
+50–55               -7.2         +2.1         +2.1         +2.4          -.8         -2.1         +1.8         -4.9         +2.5         +2.0          -.6         -1.2
+55–60              -10.6         +5.5         +2.6         +2.7         +1.3         -1.8         +2.9         -6.7         +1.4          +.9          +.9         -1.3
+60–65               -8.5         +4.2         +4.8         +5.7         +1.3         -1.2         +2.5         -7.3         -1.7          +.7          +.6         -1.0
+65–70               -4.2        +10.5         +8.3        +10.5         +7.2         +3.6         +6.0         -3.9          +.9         +1.8         +2.3         +3.2
+70–75               -5.4         +9.0         +7.8        +10.0         +7.7         +2.5         +6.5         -6.3          -.3         +2.2         +2.1         +2.6
+75–80               -4.8         +8.0         +6.5         +9.4         +7.1         +4.3         +5.5         -4.5         -1.3         +1.7         +6.6         +3.3
+80–85               -3.1         +4.4         +2.6         +6.1         +4.9         +2.8         +3.0         -3.4         -2.1          +.5         +8.0         +2.1
+85–90                -.4         +2.8          +.1         +3.5         +1.6         +1.4          +.6         -2.2         -1.5         +2.3         +4.7         +1.1
+                                      FEMALES.  Excess or deficiency of the ratio of survivors, compared with the National ratio.
+10–15               -3.0         +5.5         +1.6          -.5         -2 9         -1.4         -1.9     . . .            +1.2          +26         -2.3          -.3
+15–20              +15.4         -1.0         -7.1        -15.0         -9.4         +3.1         -6.9         +7.8         +3.9         +1.2         -7.8          -.l
+20–25              +30.0         +1.5        -11.7        -20.3        -14.6         -4.9        -11.1         +9.2         +3.6           +8        -12.9          +.1
+25–30              +18.9         +8.0         -6.0        -12.5        -16.8         -5.3        -10.3         +5.4         +3.5         +4.6        -11.9          +.1
+30–35               +4.6         +7.9         -1.0         +5.5        -12.2         -4.8         -5.9          -.3         +3.7         +5.6         +5.8          -.7
+35–40               +3.1         +5.3         +1.3         -2.5         -7.2         +2.2         -3.3         -2.9         +3.7         +4.4         -4.4         -1.3
+40–45               -5.0         +4.2         +1.3          -.3         -4.3         -1.8         -1.8         -2.1         +2.5         +1.5         -5.8         -1.4
+45–50               -6.4         +3.7         +2.1          +.3         -1.1          -.9         -1.1         -2.4         +1.8         +1.4         -2.8         -1.1
+50–55               -5.8         +4.1         +1.7          +.3          +.7         -1.3          +.3         -4.1         +1.5         +2.3          -.2          -.9
+55–60               -6.9         +5.7         +3.6         +1.2          +.1          -.8         +1.2         -5.0         +2.1         +2.2          -.3          -.6
+60–65               -4.7         +4.3         +3.7         +2.2         +1.1          -.6          +.5         -4.9         -1.1          -.1         +2.1          -.5
+65–70               -3.9         +3.7         +4.0         +5.5         +3.2          +.5          -.1         -6.9         -2.3          -.5         +1.2          -.3
+70–75               -4.0         +6.0         +4.1         +6.1         +3.5          +.3         +1.0         -8.4         +3.0          -.8          +.8          -.2
+75–80               -3.2         +3.5          +.7         +5.7         +3.0          +.3          +.6         -7.1         -4.6          -.4         +4.3          -.1
+80–85               -2.4         +2.1          -.1         +4.3          +.4          +.5         -1.2         -5.7         +3.8         -2.0         +8.1          -.2
+85–90                +.1         +1.6          +.2         +3.8         +1.5          +.8          -.7         -2.6         -1.4          -.1         +4.7          +.7
+
+Memo.—If the mortality in each Division was exactly the same, these
+ratios would truly represent loss by emigration or gain by immigration;
+however, there is a good reason to think that at the higher ages the
+losses are (in Divisions I and VIII especially) caused by excessive
+mortality, and the gains in other Divisions are largely occasioned by the
+mortality therein being below the average.
+
+
+
+
+FOOTNOTES.
+
+
+{4}  This should be read “0 and under 5.”
+
+{6}  These estimates have been made upon the basis of an apportionment
+derived from a consideration of the “English Life Table No. 3;” but I
+refrain from going into a detailed account of the process, for fear of
+rendering this paper more prolix and uninteresting than its character
+necessitates.
+
+{8a}  Net gain of incoming Irish, foreigners, &c., in excess of those
+departing.  Net loss of English-born Emigrants, in excess of English
+returning home.
+
+{8b}  This is framed on the assumption that the migrations in each year
+were exactly alike in number.
+
+{11a}  It will be noticed that some of the ratios of inaccuracy
+attributed to the census figures of 1851 are lower than those for later
+censuses.  These exceptions to the rule of decreasing inaccuracy might be
+removed without any very violent disturbance of the estimates shewn in
+Table IV, but it is thought scarcely requisite to do so.
+
+{11b}  The percentage would be 20.0 (more or less), except at high ages,
+for each year of error.
+
+{14}  Net Gain.
+
+{15}  A further slight modification in the estimates of unregistered male
+births will be noticed.  It affects the estimated emigration in 1861–70
+to the extent of about 10,000 persons,—making it 156,248 instead of
+165,800.
+
+{16}  The following specimen calculation, shewing the ingredients which
+constitute the computed deaths in 1861–1870 amongst females born in
+1851–1855, in 1816–1820, and in 1811–1815 respectively, will illustrate
+what I mean:—
+
+ Year of              Born 1851–55.                      Born 1816–20.                 Born 1811–15.
+  Death.
+            Age       Age       Age     Totals.     Age       Age     Totals.     Age       Age     Totals.
+           5–10.     10–15.    15–20.              35–45.    45–55.              45–55.    55–65.
+    1861      6730       518   . . .        7248      6234       645      6879      6514   . . .        6514
+    1862      5259      1603   . . .        6862      4999      1994      6993      6669   . . .        6669
+    1863      4630      2915   . . .        7575      3688      3392      7080      6813   . . .        6813
+    1864      2452      3989   . . .        6441      2350      5366      7716      7686   . . .        7686
+    1865       678      4626   . . .        5304       785      6993      7778      7873   . . .        7873
+    1866   . . .        4499       620      5119   . . .        8048      8048      7413       844      8257
+    1867   . . .        2949      1786      4735   . . .        7547      7547      5443      2410      7853
+    1868   . . .        2274      3045      5319   . . .        7359      7359      3813      3983      7796
+    1860   . . .        1437      4351      5788   . . .        7859      7859      2466      5985      8451
+    1870   . . .         510      6192      6702   . . .        8098      8098       873      8264      9137
+             19749     25350     15994     61093     18056     57301     75357     55563     21486     77049
+
+{19a}  The first line of Table VIII shews the effect of the removal of
+families from the first division to the semi-suburban districts in
+divisions II and III.  Such families take with them a good many children;
+hence the loss to the metropolitan division, and the gain to the two
+divisions mentioned of both boys and girls.
+
+{19b}  The following statement may make this fact clearer:—
+
+   Division.      Births recorded    Population in       Proportion
+                      1841–45.            1871           as 100 to—
+                                     born 1841–45.
+I.  London                  316037            289951              91.7
+V.                          266860            126219              47.3
+South-western
+VIII.                       392151            279606              71.3
+North-western
+
+The survivors, according to the English Life Table No. 3, should be about
+62.2 per cent.  The low rate of mortality in the South-western counties
+renders it certain that, but for migrations, the ratio of enumerated
+population to the corresponding births would be higher than 62.2 in that
+division; in the other divisions it would be lower.
+
+{20}  I am of opinion that the gain in this column, so far as regards
+London death-rates, is due to the departure of many women when in bad
+health, some of whom die in the country.  But for the effect of such
+departures, the recorded deaths and the apparent net gain by migrations
+would reach higher numbers.
+
+{22}  The procedure for instance in 1881 might be:—Take the English
+population at each age in 1871 as already corrected, and introduce the
+numbers of births returned in 1876–80 and 1871–75 as the first two terms
+of the series, adding a reasonable allowance for non-registration.
+Deduct the deaths in 1871–80, duly apportioned under periods of birth.
+The gross number of either sex enumerated in 1881 being known, the net
+loss or gain by migrations can then be ascertained.  Apportion this in
+somewhat similar proportions to those observed in 1851–60.  The final
+results will exhibit approximately the distribution of population by ages
+in 1881.
+
+{23a}  It will be noticed that I have paid no regard to the interval of
+time between the census day and the January preceding, treating the exact
+decennium as being a near enough equivalent of the interval between
+census and census.
+
+{23b}  These numbers represent the births in the periods mentioned,
+_plus_ an allowance for omissions, viz. 1¾ per cent. on births in
+1866–70, and 2, 2¼, and 3½ per cent. on births in the earlier periods
+respectively.
+
+{23c}  The correction adopted in the case of female births is rather
+larger than in that of male births.  These figures are those returned,
+_plus_ 2 per cent. on the births in 1866–70, and 2¼, 2¾, and 4 per cent.
+respectively on the births in the earlier periods.
+
+{24a}   Births, plus allowance for those unregistered, say 2 per cent. on
+births in 1866–70, and 2¾, 3¼, and 4 per cent. respectively on births in
+the earlier periods.
+
+{24b}  The few deaths “age not stated” are disregarded.
+
+{25a}  Births, _plus_ allowance for those unregistered, say 1½ per cent.
+on births in 1866–70, and 2¼, 2.65 and 3.5 per cent. respectively on
+births in the earlier periods.
+
+{25b}  The few deaths “are not stated” are disregarded.
+
+{25c}  These figures are, I think, improbable; I suppose the
+apportionment of deaths may be chiefly in fault.
+
+
+
+
+***END OF THE PROJECT GUTENBERG EBOOK ON THE INACCURACIES WHICH PROBABLY
+EXIST IN THE CENSUS RETURNS OF AGES***
+
+
+******* This file should be named 67037-0.txt or 67037-0.zip *******
+
+
+This and all associated files of various formats will be found in:
+http://www.gutenberg.org/dirs/6/7/0/3/67037
+
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for the eBooks, unless you receive
+specific permission. If you do not charge anything for copies of this
+eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given
+away--you may do practically ANYTHING in the United States with eBooks
+not protected by U.S. copyright law. Redistribution is subject to the
+trademark license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you'll have to check the laws of the country where you
+  are located before using this ebook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
+trademark. Contact the Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org 
+
+Section 3. Information about the Project Gutenberg Literary 
+Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its
+volunteers and employees are scattered throughout numerous
+locations. Its business office is located at 809 North 1500 West, Salt
+Lake City, UT 84116, (801) 596-1887. E-mail contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at www.gutenberg.org/contact
+
+For additional contact information:
+
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works.
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our Web site which has the main PG search
+facility: www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
